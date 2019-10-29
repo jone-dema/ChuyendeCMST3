@@ -1,0 +1,12 @@
+2019-10-15T00:11:57+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-includes\Requests\Transport\cURL.php on line 163
+
+2019-10-15T00:24:26+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-includes\Requests\Transport\cURL.php on line 441
+
+2019-10-15T03:08:37+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-includes\wp-db.php on line 2007
+
+2019-10-15T03:55:28+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-content\plugins\elementor\core\files\assets\svg\svg-handler.php on line 4
+
+2019-10-15T04:19:18+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-content\plugins\elementor\core\settings\base\model.php on line 6
+
+2019-10-15T04:19:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-includes\wp-db.php on line 2007
+

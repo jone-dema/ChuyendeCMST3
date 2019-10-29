@@ -1,0 +1,10 @@
+2019-10-10T04:40:47+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-content\plugins\elementor\core\files\assets\svg\svg-handler.php on line 4
+
+2019-10-10T14:45:02+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-content\plugins\woocommerce-admin\vendor\composer\ClassLoader.php on line 384
+
+2019-10-10T14:45:20+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-content\plugins\woocommerce\packages\woocommerce-blocks\src\BlockTypes\AbstractProductGrid.php on line 10
+
+2019-10-10T15:51:51+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-content\plugins\woocommerce-admin\src\ReportsSync.php on line 10
+
+2019-10-10T15:51:54+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-content\plugins\smart-slider-3\library\wordpress\N2SmartsliderApplicationInfoFilter.php on line 3
+

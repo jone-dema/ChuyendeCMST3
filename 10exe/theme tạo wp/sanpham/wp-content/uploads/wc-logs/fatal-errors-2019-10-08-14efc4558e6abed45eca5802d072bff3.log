@@ -1,0 +1,10 @@
+2019-10-08T00:21:03+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-content\plugins\woocommerce\templates\loop\loop-start.php on line 18
+
+2019-10-08T00:52:44+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-content\plugins\smart-slider-3\nextend\wordpress\libraries\uri\uri.php on line 3
+
+2019-10-08T02:54:37+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\sanpham/wp-content/themes/ducle/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\sanpham\wp-content\themes\ducle\functions.php on line 16
+
+2019-10-08T02:54:49+00:00 CRITICAL require_once(): Failed opening required 'C:\xampp\htdocs\sanpham/wp-content/themes/ducle/core/init.php' (include_path='C:\xampp\php\PEAR') in C:\xampp\htdocs\sanpham\wp-content\themes\ducle\functions.php on line 16
+
+2019-10-08T03:01:24+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in C:\xampp\htdocs\sanpham\wp-content\plugins\smart-slider-3\library\smartslider\libraries\storage.php on line 3
+
