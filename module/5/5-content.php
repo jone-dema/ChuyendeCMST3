@@ -1,5 +1,5 @@
 <!--DETAILS-->
-<div class="type-623">
+<div class="type-5">
 
 
     <div class="container">
@@ -22,7 +22,7 @@
                                                 <div class="eltdf-pl-item-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="1100" height="800"
-                                                            src="/623/images/3.jpg"
+                                                            src="/5/images/3.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="a"
                                                             
                                                             sizes="(max-width: 1100px) 100vw, 1100px"> <span
@@ -40,7 +40,7 @@
                                                 <div class="eltdf-pl-item-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="1100" height="1718"
-                                                            src="/623/images/2.jpg"
+                                                            src="/5/images/2.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="a"
                                                             
                                                             sizes="(max-width: 1100px) 100vw, 1100px"> <span
@@ -71,7 +71,7 @@
                                                 <div class="eltdf-pl-item-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="1100" height="800"
-                                                            src="/623/images/3.jpg"
+                                                            src="/5/images/3.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="a"
                                                            
                                                             sizes="(max-width: 1100px) 100vw, 1100px"> <span
@@ -102,7 +102,7 @@
                                                 <div class="eltdf-pl-item-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="1100" height="1718"
-                                                            src="/623/images/1.jpg"
+                                                            src="/5/images/1.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="a"
                                                            
                                                             sizes="(max-width: 1100px) 100vw, 1100px"> <span
@@ -133,7 +133,7 @@
                                                 <div class="eltdf-pl-item-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="1100" height="1718"
-                                                            src="/623/images/4.jpg"
+                                                            src="/5/images/4.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="a"
                                                         
                                                             sizes="(max-width: 1100px) 100vw, 1100px"> <span
@@ -164,7 +164,7 @@
                                                 <div class="eltdf-pl-item-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="1100" height="800"
-                                                            src="/623/images/5.jpg"
+                                                            src="/5/images/5.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="a"
                                                             
                                                             sizes="(max-width: 1100px) 100vw, 1100px"> <span
@@ -195,7 +195,7 @@
                                                 <div class="eltdf-pl-item-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="2158" height="800"
-                                                            src="/623/images/6.jpg"
+                                                            src="/5/images/6.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="a"
                                                             
                                                             sizes="(max-width: 2158px) 100vw, 2158px"> <span
@@ -226,7 +226,7 @@
                                                 <div class="eltdf-pl-item-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="1100" height="800"
-                                                            src="/623/images/3.jpg"
+                                                            src="/5/images/3.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="a"
 
                                                             sizes="(max-width: 1100px) 100vw, 1100px"> <span

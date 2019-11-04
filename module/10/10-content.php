@@ -3,7 +3,7 @@
 	<div class="container">
 		<div class="row">
 			<div class="entry-contact" style="margin-bottom: -24px;text-align: center;">
-				<img width="55" height="63" src="/10/images/md-8/bets.png" class="attachment-full size-full" alt="a">
+				<img width="55" height="63" src="/10/images/bets.png" class="attachment-full size-full" alt="a">
 			</div>
 			<div class="entry-contact">
 
