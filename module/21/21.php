@@ -32,7 +32,7 @@
         <script src="<?php echo $url_path?>/js/jQuery_v3.1.1.min.js"></script>
         <script src="<?php echo $url_path?>/js/owl.carousel.min.js"></script>
         <script src="<?php echo $url_path?>/js/bootstrap.min.js"></script>
-        <script src="<?php echo $url_path?>/js/custom.js"></script>
+        <script src="<?php echo $url_path?>/js/21.js"></script>
     </head>
     <body>
         <?php include $dir_block.'/21-content.php'; ?>
