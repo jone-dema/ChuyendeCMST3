@@ -1,5 +1,15 @@
-$(function() {  
+$(function() {
+    "use strict";
+    
+    
+    
     function owl_carousel () {
+     
+    
+     
+    
+    
+    
         $('.client').owlCarousel({
             autoplay:false,
             responsiveClass:true,
@@ -50,7 +60,7 @@ $(function() {
         $( window ).ready(function() {
             $('[data-toggle="tooltip"]').tooltip();
             owl_carousel ();
-               
+              
         });
        
        
