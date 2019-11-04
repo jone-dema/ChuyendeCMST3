@@ -14,33 +14,33 @@
     }
     
     $less = new lessc;
-    $less->compileFile('less/17.less', 'css/17.css');
+    $less->compileFile('less/15.less', 'css/15.css');
     
 ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>17</title>
+        <title>15</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path?>/css/17.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo $url_path?>/css/15.css" rel="stylesheet" type="text/css"/>
         
  
    
 
     <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path?>/css/17.css" rel="stylesheet" type="text/css" />
+        <link href="<?php echo $url_path?>/css/15.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" type="text/css" href="<?php echo $url_path?>/css/font-awesome.min.css" />
         <link rel="stylesheet" type="text/css" href="<?php echo $url_path?>/css/bootstrap.css" />
         <script src="<?php echo $url_path?>/js/jQuery_v3.1.1.min.js"></script>
+        <script src="<?php echo $url_path?>/js/owl.carousel.min.js"></script>
         <script src="<?php echo $url_path?>/js/bootstrap.min.js"></script>
-        <script src="<?php echo $url_path?>/js/17.js"></script>
-        <script src="<?php echo $url_path?>/js/mapad.js"></script>
+        <script src="<?php echo $url_path?>/js/15.js"></script>
     </head>
     <body>
-        <?php include $dir_block.'/17.content.php'; ?>
+        <?php include $dir_block.'/15-content.php'; ?>
     </body>
 </html>
