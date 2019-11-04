@@ -1,0 +1,39 @@
+.type-6 h1,
+.type-6 h2,
+.type-6 h3,
+.type-6 h4,
+.type-6 h5,
+.type-6 h6 {
+  color: #121f38;
+  margin: 25px 0;
+  -ms-word-wrap: break-word;
+  word-wrap: break-word;
+  text-transform: uppercase;
+  text-align: center;
+}
+.type-6 h6 {
+  font-weight: 600;
+}
+.type-6 h6 {
+  font-size: 11px;
+  line-height: 1.82em;
+  letter-spacing: .12em;
+}
+.type-6 .counter-inner {
+  text-align: center;
+}
+.type-6 .counter-holder .counter {
+  height: 1em;
+  display: inline-block !important;
+  vertical-align: middle;
+  font-family: Cormorant, serif;
+  font-style: italic;
+  color: #dedee1;
+  font-size: 110px;
+  line-height: 1em;
+  font-weight: 400;
+  overflow: hidden;
+}
+.type-6 .counter-holder .title {
+  margin: 30px 0 0;
+}
