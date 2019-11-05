@@ -27,6 +27,8 @@ $less->compileFile('less/4.less', 'css/4.css');
     <link rel="stylesheet" href="<?php echo $url_path ?>./css/bootstrap.min.css">
     <link rel="stylesheet" href="<?php echo $url_path ?>./css/fontawesome.min.css">
     <link rel="stylesheet" href="<?php echo $url_path ?>/css/css.css">
+    <script src="./js/jquery-2.1.4.min.js"></script>
+    <script src="./js/4.js"></script>
     <?php
         if (!class_exists('lessc')) {
             include('./libs/lessc.inc.php');

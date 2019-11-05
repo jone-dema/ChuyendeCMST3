@@ -1,29 +1,25 @@
-(function($) {
-    function doAnimations(elems) {
-        var animEndEv = "webkitAnimationEnd animationend";
-
-        elems.each(function() {
-            var $this = $(this),
-                $animationType = $this.data("animation");
-            $this.addClass($animationType).one(animEndEv, function() {
-                $this.removeClass($animationType);
-            });
-        });
+window.document.onkeydown = function(e) {
+    if (!e) {
+      e = event;
     }
-
-    var $myCarousel = $("#carouselExampleIndicators"),
-        $firstAnimatingElems = $myCarousel
-        .find(".carousel-item:first")
-        .find("[data-animation ^= 'animated']");
-
-    $myCarousel.carousel();
-
-    doAnimations($firstAnimatingElems);
-
-    $myCarousel.on("slide.bs.carousel", function(e) {
-        var $animatingElems = $(e.relatedTarget).find(
-            "[data-animation ^= 'animated']"
-        );
-        doAnimations($animatingElems);
-    });
-})(jQuery);
+    if (e.keyCode == 27) {
+      lightbox_close();
+    }
+  }
+  $('.video-button-play-image').click(function(e) {
+    e.preventDefault();
+});
+  function lightbox_open(e) {
+    var lightBoxVideo = document.getElementById("VisaChipCardVideo");
+    window.scrollTo(0, 0);
+    document.getElementById('light').style.display = 'block';
+    document.getElementById('fade').style.display = 'block';
+    lightBoxVideo.play();
+  }
+  
+  function lightbox_close(e) {
+    var lightBoxVideo = document.getElementById("VisaChipCardVideo");
+    document.getElementById('light').style.display = 'none';
+    document.getElementById('fade').style.display = 'none';
+    lightBoxVideo.pause();
+  }
