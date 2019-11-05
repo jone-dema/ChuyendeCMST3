@@ -14,7 +14,7 @@
                                         <a>
 
                                             October 31, 2018 </a>
-                                    </div> <img src="/24/images/blog-img-6.jpg" alt="a" width="1100px"
+                                    </div> <img src="./images/blog-img-6.jpg" alt="a" width="1100px"
                                         height="740px" height="auto" max-width="100%">
                                 </a>
 

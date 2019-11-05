@@ -1,8 +1,8 @@
 <!--DETAILS-->
-<div class="type-30"style="color:#fff">
+<div class="type-30">
 
   <div class="container">
-        <div class="row " style="background-image: url(https://theaisle.elated-themes.com/wp-content/uploads/2018/10/h1-background-img-4.jpg);
+        <div class="row " style="background-image: url(./images/h1-background-img-4.jpg);
                                 background-position: 50% 30px;"
 >
       

@@ -4,7 +4,7 @@
            
             <div class="contact-below">
                 <div class="entry-contact" style="margin-bottom: -24px;text-align: center;">
-                <img width="55" height="63" src="/8/images/md-8/bets.png" class="attachment-full size-full" alt="a"> 
+                <img width="55" height="63" src="./images/md-8/bets.png" class="attachment-full size-full" alt="a"> 
                 </div>
                 <div class="entry-contact">
 
@@ -23,7 +23,7 @@
                         <a> 
                            
                         October 31, 2018 </a>
-                        </div> <img src="/8/images/md-8/1.jpg" alt="a" width="420px" height="572px" height="auto" max-width="100%"></a>
+                        </div> <img src="./images/md-8/1.jpg" alt="a" width="420px" height="572px" height="auto" max-width="100%"></a>
 
                         </div>
                      </li>
@@ -57,7 +57,7 @@
                         <a> 
                            
                         October 31, 2018 </a>
-                        </div><img src="/8/images/md-8/2.jpg" alt="a" width="420px" height="572px" height="auto" max-width="100%"></a>
+                        </div><img src="./images/md-8/2.jpg" alt="a" width="420px" height="572px" height="auto" max-width="100%"></a>
 
                         </div>
                      </li>
@@ -95,7 +95,7 @@
                            
                         October 31, 2018 </a>
                         </div>
-                                <img src="/8/images/md-8/3.jpg" alt="a" width="420px" height="572px" height="auto" max-width="100%">
+                                <img src="./images/md-8/3.jpg" alt="a" width="420px" height="572px" height="auto" max-width="100%">
                             </a>
 
                         </div>
@@ -133,7 +133,7 @@
                         October 31, 2018 </a>
                         
                         </div>
-                             <img src="/8/images/md-8/4.jpg" alt="a" width="420px" height="572px" height="auto" max-width="100%">
+                             <img src="./images/md-8/4.jpg" alt="a" width="420px" height="572px" height="auto" max-width="100%">
                             </a>
 
                         </div>
