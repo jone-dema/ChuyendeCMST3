@@ -1,4 +1,3 @@
-
 <?php
 
     $url_host = 'http://'.$_SERVER['HTTP_HOST'];
@@ -15,30 +14,33 @@
     }
     
     $less = new lessc;
-    $less->compileFile('less/21.less', 'css/21.css');
+    $less->compileFile('less/30.less', 'css/30.css');
     
 ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>21</title>
+        <title>30</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path?>/css/21.css" rel="stylesheet" type="text/css" />
+        <link href="<?php echo $url_path?>/css/30.css" rel="stylesheet" type="text/css"/>
+        
+ 
+   
+
+    <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo $url_path?>/css/30.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" type="text/css" href="<?php echo $url_path?>/css/font-awesome.min.css" />
         <link rel="stylesheet" type="text/css" href="<?php echo $url_path?>/css/bootstrap.css" />
         <script src="<?php echo $url_path?>/js/jQuery_v3.1.1.min.js"></script>
         <script src="<?php echo $url_path?>/js/owl.carousel.min.js"></script>
         <script src="<?php echo $url_path?>/js/bootstrap.min.js"></script>
-        <script src="<?php echo $url_path?>/js/21.js"></script>
+        <script src="<?php echo $url_path?>/js/30.js"></script>
     </head>
     <body>
-        <?php include $dir_block.'/21-content.php'; ?>
+        <?php include $dir_block.'/30-content.php'; ?>
     </body>
 </html>
-
-
-
-
