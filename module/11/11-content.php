@@ -29,7 +29,7 @@
                                                 
                                                 <div class="eltdf-st-image" style="margin-bottom: -30px">
                                                     <img width="110" height="76"
-                                                        src="https://theaisle.elated-themes.com/wp-content/uploads/2018/10/section-title-img-6.png"
+                                                        src="./images/section-title-img-6.png"
                                                         class="attachment-full size-full" alt="a"> </div>
                                                 <h2 class="eltdf-st-title">
                                                     <span class="eltdf-st-title-word">Your</span> <span
@@ -73,7 +73,7 @@
                                                     <div class="eltdf-pl-item-inner">
                                                         <div class="eltdf-pli-image">
                                                             <img width="650" height="860"
-                                                                src="https://theaisle.elated-themes.com/wp-content/uploads/2018/10/port-3-img-1-650x860.jpg"
+                                                                src="./images/port-3-img-1-650x860.jpg"
                                                                 class="attachment-theaisle_elated_image_portrait size-theaisle_elated_image_portrait wp-post-image"
                                                                 alt="a"></div>
                                                         <div class="eltdf-pli-text-holder">
@@ -81,7 +81,7 @@
                                                                 <div class="eltdf-pli-text">
                                                                     <div class="eltdf-pli-category-holder">
                                                                         <a itemprop="url" class="eltdf-pli-category"
-                                                                            href="https://theaisle.elated-themes.com/portfolio-category/accessorize/">Accessorize</a>
+                                                                           >Accessorize</a>
                                                                     </div>
                                                                     <h5 itemprop="name"
                                                                         class="eltdf-pli-title entry-title">
@@ -90,8 +90,7 @@
                                                             </div>
                                                         </div>
                                                         <a itemprop="url" class="eltdf-pli-link eltdf-block-drag-link"
-                                                            href="https://theaisle.elated-themes.com/portfolio-item/hairstyles/"
-                                                            target="_self"></a>
+                                                           ></a>
                                                     </div>
                                                 </article>
                                                 <article
@@ -99,7 +98,7 @@
                                                     <div class="eltdf-pl-item-inner">
                                                         <div class="eltdf-pli-image">
                                                             <img width="650" height="860"
-                                                                src="https://theaisle.elated-themes.com/wp-content/uploads/2018/10/port-3-img-2-650x860.jpg"
+                                                                src="./images/port-3-img-2-650x860.jpg"
                                                                 class="attachment-theaisle_elated_image_portrait size-theaisle_elated_image_portrait wp-post-image"
                                                                 alt="a"></div>
                                                         <div class="eltdf-pli-text-holder">
@@ -107,7 +106,7 @@
                                                                 <div class="eltdf-pli-text">
                                                                     <div class="eltdf-pli-category-holder">
                                                                         <a itemprop="url" class="eltdf-pli-category"
-                                                                            href="https://theaisle.elated-themes.com/portfolio-category/accessorize/">Accessorize</a>
+                                                                            >Accessorize</a>
                                                                     </div>
                                                                     <h5 itemprop="name"
                                                                         class="eltdf-pli-title entry-title">
@@ -116,8 +115,7 @@
                                                             </div>
                                                         </div>
                                                         <a itemprop="url" class="eltdf-pli-link eltdf-block-drag-link"
-                                                            href="https://theaisle.elated-themes.com/portfolio-item/perfect-dress/"
-                                                            target="_self"></a>
+                                                           ></a>
                                                     </div>
                                                 </article>
                                                 <article
@@ -125,7 +123,7 @@
                                                     <div class="eltdf-pl-item-inner">
                                                         <div class="eltdf-pli-image">
                                                             <img width="650" height="860"
-                                                                src="https://theaisle.elated-themes.com/wp-content/uploads/2018/10/port-3-img-3-650x860.jpg"
+                                                                src="./images/port-3-img-3-650x860.jpg"
                                                                 class="attachment-theaisle_elated_image_portrait size-theaisle_elated_image_portrait wp-post-image"
                                                                 alt="a"></div>
                                                         <div class="eltdf-pli-text-holder">
@@ -133,7 +131,7 @@
                                                                 <div class="eltdf-pli-text">
                                                                     <div class="eltdf-pli-category-holder">
                                                                         <a itemprop="url" class="eltdf-pli-category"
-                                                                            href="https://theaisle.elated-themes.com/portfolio-category/accessorize/">Accessorize</a>
+                                                                            >Accessorize</a>
                                                                     </div>
                                                                     <h5 itemprop="name"
                                                                         class="eltdf-pli-title entry-title">
@@ -142,8 +140,7 @@
                                                             </div>
                                                         </div>
                                                         <a itemprop="url" class="eltdf-pli-link eltdf-block-drag-link"
-                                                            href="https://theaisle.elated-themes.com/portfolio-item/jewelry/"
-                                                            target="_self"></a>
+                                                          ></a>
                                                     </div>
                                                 </article>
                                             </div>

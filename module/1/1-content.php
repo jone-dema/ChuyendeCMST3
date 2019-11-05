@@ -78,12 +78,11 @@
                                         <a href="#"><i class="icon-magnifier icons"></i></a>
                                     </div>
                                     <div class="header__account">
-                                        <a href="#"><i class="icon-handbag icon"></i></a>
-                                        
+                                        <a href="#"><i class="icon-user icons"></i></a>
                                     </div>
                                     <div class="htc__shopping__cart">
-                                        <a class="cart__menu" href="#"><i class="icon-user icons"></i></a>
-                                       
+                                        <a class="cart__menu" href="#"><i class="icon-handbag icons"></i></a>
+                                        <a href="#"><span class="htc__qua">2</span></a>
                                     </div>
                                 </div>
                             </div>
@@ -122,10 +121,10 @@
                             <div class="search__inner">
                                 <form action="#" method="get">
                                     <input placeholder="Search here... " type="text">
-                                    <button type="submit"><i class="icon-magnifier icons"></i></button>
+                                    <button type="submit"></button>
                                 </form>
                                 <div class="search__close__btn">
-                                    <span class="search__close__btn_icon"><i class="zmdi zmdi-close"></i>x</span>
+                                    <span class="search__close__btn_icon"><i class="zmdi zmdi-close"></i></span>
                                 </div>
                             </div>
                         </div>
@@ -137,7 +136,7 @@
             <div class="shopping__cart">
                 <div class="shopping__cart__inner">
                     <div class="offsetmenu__close__btn">
-                        <a href="#"><i class="zmdi zmdi-close">x</i></a>
+                        <a href="#"><i class="zmdi zmdi-close"></i></a>
                     </div>
                    
                     <div class="thumler">

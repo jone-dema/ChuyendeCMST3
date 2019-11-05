@@ -21,7 +21,7 @@
 				<div class="team-member text-center">
 
 					<div class="image-container">
-						<img src="/10/images/hinh2.jpg" alt="image_not_found" width="250px" height="180px">
+						<img src="./images/hinh2.jpg" alt="image_not_found" width="250px" height="180px">
 					</div>
 					<div class="member-content">
 						<h3 class="member-name">JUDY SMITH</h3>
@@ -37,7 +37,7 @@
 				<div class="team-member text-center">
 
 					<div class="image-container">
-						<img src="/10/images/hinh1.jpg" alt="image_not_found" width="250px" height="180px">
+						<img src="./images/hinh1.jpg" alt="image_not_found" width="250px" height="180px">
 					</div>
 					<div class="member-content">
 						<h3 class="member-name">Ms Christina</h3>
@@ -53,7 +53,7 @@
 
 				<div class="image-container">
 
-					<img src="/10/images/hinh5.jpg" alt="image_not_found" width="250px" height="180px">
+					<img src="./images/hinh5.jpg" alt="image_not_found" width="250px" height="180px">
 
 				</div>
 				<div class="member-content">
