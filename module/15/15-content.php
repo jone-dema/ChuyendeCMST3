@@ -15,7 +15,7 @@
                                         <div class="eltdf-st-inner">
                                             <div class="eltdf-st-image" style="margin-bottom: -24px">
                                                 <img width="55" height="63"
-                                                    src="/15/images/section-title-img-1.png"
+                                                    src="./images/section-title-img-1.png"
                                                     class="attachment-full size-full" alt="a"> </div>
                                             <h2 class="eltdf-st-title">
                                                 <span class="eltdf-st-title-word">Choose</span> <span
@@ -36,7 +36,7 @@
                                                     <div class="eltdf-pli-image">
                                                         <span class="eltdf-pli-onsale">Sale</span>
                                                         <img width="800" height="1088"
-                                                            src="/15/images/h1-shop-img-8.jpg"
+                                                            src="./images/h1-shop-img-8.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="i"> </div>
                                                     <a class="eltdf-pli-link" itemprop="url"
                                                        ></a>
@@ -71,7 +71,7 @@
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="800" height="1088"
-                                                            src="/15/images/h1-shop-img-7.jpg"
+                                                            src="./images/h1-shop-img-7.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="i" > </div>
                                                     <a class="eltdf-pli-link" itemprop="url"
                                                        ></a>
@@ -104,7 +104,7 @@
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="800" height="1088"
-                                                            src="/15/images/h1-shop-img-6.jpg"
+                                                            src="./images/h1-shop-img-6.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="i"> </div>
                                                     <a class="eltdf-pli-link" itemprop="url"
                                                        ></a>
@@ -137,7 +137,7 @@
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="800" height="1088"
-                                                            src="/15/images/h1-shop-img-2.jpg"
+                                                            src="./images/h1-shop-img-2.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="i"> </div>
                                                     <a class="eltdf-pli-link" itemprop="url"
                                                         ></a>
@@ -170,7 +170,7 @@
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="800" height="1088"
-                                                            src="/15/images/h1-shop-img-4.jpg"
+                                                            src="./images/h1-shop-img-4.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="i"> </div>
                                                     <a class="eltdf-pli-link" itemprop="url"
                                                       ></a>
@@ -204,7 +204,7 @@
                                                     <div class="eltdf-pli-image">
                                                         <span class="eltdf-pli-out-of-stock">Sold</span>
                                                         <img width="800" height="1088"
-                                                            src="/15/images//h1-shop-img-3.jpg"
+                                                            src="./images//h1-shop-img-3.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="i"> </div>
                                                     <a class="eltdf-pli-link" itemprop="url"
                                                        ></a>
@@ -238,7 +238,7 @@
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="800" height="1088"
-                                                            src="/15/images/h1-shop-img-1.jpg"
+                                                            src="./images/h1-shop-img-1.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="i"> </div>
                                                     <a class="eltdf-pli-link" itemprop="url"
                                                         ></a>
@@ -271,7 +271,7 @@
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="800" height="1088"
-                                                            src="/15/images/h1-shop-img-10.jpg"
+                                                            src="./images/h1-shop-img-10.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="i"> </div>
                                                     <a class="eltdf-pli-link" itemprop="url"
                                                         ></a>
@@ -305,7 +305,7 @@
                                                     <div class="eltdf-pli-image">
                                                         <span class="eltdf-pli-new-product">New</span>
                                                         <img width="800" height="1088"
-                                                            src="/15/images/h1-shop-img-2.jpg"
+                                                            src="./images/h1-shop-img-2.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="i"> </div>
                                                     <a class="eltdf-pli-link" itemprop="url"
                                                        ></a>
@@ -338,7 +338,7 @@
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
                                                         <img width="800" height="1088"
-                                                            src="/15/images/h1-shop-img-9.jpg"
+                                                            src="./images/h1-shop-img-9.jpg"
                                                             class="attachment-full size-full wp-post-image" alt="i"> </div>
                                                     <a class="eltdf-pli-link" itemprop="url"
                                                         ></a>
