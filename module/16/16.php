@@ -1,3 +1,4 @@
+
 <?php
 
     $url_host = 'http://'.$_SERVER['HTTP_HOST'];
@@ -22,24 +23,23 @@
     <head>
         <title>16</title>
         <meta charset="UTF-8">
-        <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path?>/css/16.css" rel="stylesheet" type="text/css"/>
-        
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link href="./css/16.css" rel="stylesheet" type="text/css"/>
+        <link href="./css/css.css" rel="stylesheet" type="text/css"/>
+        <link href="./css/bootstrap.min.css" rel="stylesheet" type="text/css" />
  
-   
-
-    <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path?>/css/16.css" rel="stylesheet" type="text/css" />
-        <link rel="stylesheet" type="text/css" href="<?php echo $url_path?>/css/font-awesome.min.css" />
-        <script src="<?php echo $url_path?>/js/jQuery_v3.1.1.min.js"></script>
-        <script src="<?php echo $url_path?>/js/bootstrap.min.js"></script>
-
-
+        <?php
+        if (!class_exists('lessc')) {
+            include ('./libs/lessc.inc.php');
+        }
+        $less = new lessc;
+        $less->compileFile('less/16.less', 'css/16.css');
+        ?>
     </head>
-    <body>
-        <?php include $dir_block.'/16.content.php'; ?>
+
+    <body>   
+            <?php include '16-content.php'; ?>
+
     </body>
+
 </html>
