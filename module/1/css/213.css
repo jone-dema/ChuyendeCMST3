@@ -415,7 +415,7 @@ a.meanmenu-reveal {
 }
 .offsetmenu__close__btn a i {
   color: #666666;
-  font-size: 36px;
+  font-size: 20px;
   transition: all 0.3s ease 0s;
 }
 .offsetmenu__close__btn a:hover i {
