@@ -93,6 +93,7 @@
   transition: all .45s ease;
 }
 .type-35 .button:hover {
+  background: #fff;
   opacity: 1;
   -webkit-transform: translateX(-50%);
   -moz-transform: translateX(-50%);

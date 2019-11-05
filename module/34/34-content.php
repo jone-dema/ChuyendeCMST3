@@ -41,7 +41,7 @@ $url_path = str_replace('\\', '/', $url_path);
                 1 review for <span>Bride Dress</span> </h2>
             <ul>
                 <li itemprop="reviews" class="comment">
-                    <img alt="JennyC" src="./images/1-module-34.jpeg" class="photo" height="60" width="60">
+                    <img alt="JennyC" src="./images/1-module-10.jpeg" class="photo" height="60" width="60">
                     <div class="comment-text">
                         <div class="star-rating" title="Rated 5 out of 5">
                             <span style="width:100%"><strong itemprop="ratingValue">5</strong> out of 5</span>
