@@ -62,6 +62,9 @@
   transition: all .45s ease;
 }
 .type-35 .price:hover {
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  transform: translateX(-50%);
   opacity: 0;
 }
 .type-35 .currencySymbol {
@@ -90,7 +93,6 @@
   transition: all .45s ease;
 }
 .type-35 .button:hover {
-  background: #fff;
   opacity: 1;
   -webkit-transform: translateX(-50%);
   -moz-transform: translateX(-50%);
