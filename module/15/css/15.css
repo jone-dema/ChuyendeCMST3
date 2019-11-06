@@ -1,3 +1,61 @@
+.type-17 .price {
+  position: relative;
+  display: block;
+  margin: 0;
+  color: #c78665;
+  font-size: 22px;
+  font-weight: 400;
+  letter-spacing: 0;
+  font-style: italic;
+  font-family: Cormorant, serif;
+  line-height: 1em;
+  -webkit-transition: all .45s ease;
+  -moz-transition: all .45s ease;
+  transition: all .45s ease;
+}
+.type-17 .price:hover {
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  transform: translateX(-50%);
+  opacity: 0;
+}
+.type-17 .currencySymbol {
+  font-size: 12px;
+  vertical-align: super;
+}
+.type-17 .button {
+  margin: 0;
+  width: auto;
+  border: none;
+  position: absolute;
+  left: 50%;
+  bottom: 0;
+  transform: translateX(-100%);
+  opacity: 0;
+  color: #c78665 !important;
+  font-style: italic;
+  font-family: Cormorant, serif;
+  font-size: 19px;
+  line-height: 1.4em;
+  border-bottom: 1px solid #c78665;
+  padding: 0;
+  background-color: transparent;
+  -webkit-transition: all .45s ease;
+  -moz-transition: all .45s ease;
+  transition: all .45s ease;
+}
+.type-17 .button:hover {
+  background: #fff;
+  opacity: 1;
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  transform: translateX(-50%);
+}
+.type-17 .onsale {
+  left: 0;
+  background-color: #c78665;
+  color: #fff;
+}
 .type-17 .eltdf-row-grid-section {
   position: relative;
   width: 1100px;

@@ -66,18 +66,13 @@
     -moz-transition: all .45s ease;
     transition: all .45s ease;
   }
-  .price:hover{
-    -webkit-transform: translateX(-50%);
-    -moz-transform: translateX(-50%);
-    transform: translateX(-50%);
-    opacity: 0;
-  }
+  
 
   .currencySymbol {
     font-size: 12px;
     vertical-align: super;
   }
-
+ 
   .button {
     margin: 0;
     width: auto;
@@ -99,7 +94,13 @@
     -moz-transition: all .45s ease;
     transition: all .45s ease;
   }
-
+  .product:hover{
+    .price:hover{
+      -webkit-transform: translateX(-50%);
+      -moz-transform: translateX(-50%);
+      transform: translateX(-50%);
+      opacity: 0;
+    }
   .button:hover {
     background: #fff;
     opacity: 1;
@@ -107,6 +108,7 @@
     -moz-transform: translateX(-50%);
     transform: translateX(-50%);
   }
+}
   .onsale {
     left: 0;
     background-color: #c78665;

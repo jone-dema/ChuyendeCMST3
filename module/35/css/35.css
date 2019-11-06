@@ -61,12 +61,6 @@
   -moz-transition: all .45s ease;
   transition: all .45s ease;
 }
-.type-35 .price:hover {
-  -webkit-transform: translateX(-50%);
-  -moz-transform: translateX(-50%);
-  transform: translateX(-50%);
-  opacity: 0;
-}
 .type-35 .currencySymbol {
   font-size: 12px;
   vertical-align: super;
@@ -92,7 +86,13 @@
   -moz-transition: all .45s ease;
   transition: all .45s ease;
 }
-.type-35 .button:hover {
+.type-35 .product:hover .price:hover {
+  -webkit-transform: translateX(-50%);
+  -moz-transform: translateX(-50%);
+  transform: translateX(-50%);
+  opacity: 0;
+}
+.type-35 .product:hover .button:hover {
   background: #fff;
   opacity: 1;
   -webkit-transform: translateX(-50%);

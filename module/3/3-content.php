@@ -38,7 +38,7 @@ $url_path = str_replace('\\', '/', $url_path);
 
             <div class="swiper-slide">
                 <img class="img-responsive" src="./images/s2-module3.jpg" alt="2-3"
-                    style="height: 773px;width: 1349px;transform: translate3d(0px, 0px, 0px);transform-origin: 0% 0% 0px;">
+                    style="transform: translate3d(0px, 0px, 0px);transform-origin: 0% 0% 0px;">
                 <div class="wrap">
                     <div class="content-4-1">
                         <div class="title-holder with-text  text-title">
@@ -63,7 +63,7 @@ $url_path = str_replace('\\', '/', $url_path);
             </div>
             <div class="swiper-slide">
                 <img class="img-responsive" src="./images/s3-module3.jpg" alt="2-4"
-                    style="height: 773px;width: 1349px;transform: translate3d(0px, 0px, 0px);transform-origin: 0% 0% 0px;">
+                    style="transform: translate3d(0px, 0px, 0px);transform-origin: 0% 0% 0px;">
                 <div class="wrap">
                     <div class="content-4-1">
                         <div class="title-holder with-text  text-title">
