@@ -28,11 +28,7 @@
         <link href="<?php echo $url_path?>/css/11.css" rel="stylesheet" type="text/css"/>
         
  
-    <link rel="stylesheet" href="<?php echo $url_path?>/plugins/ps-icon/style.css">
-    <!-- CSS Library-->
-    <link rel="stylesheet" href="<?php echo $url_path?>/plugins/bootstrap/dist/css/bootstrap.min.css">
-    <link rel="stylesheet" href="<?php echo $url_path?>/plugins/owl-carousel/assets/owl.carousel.css">
-    <!-- Custom-->
+  
 
     <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>

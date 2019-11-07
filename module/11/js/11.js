@@ -1,15 +1,5 @@
 $(function() {
-    "use strict";
-    
-    
-    
-    function owl_carousel () {
-     
-    
-     
-    
-    
-    
+  function owl_carousel () {
         $('.client').owlCarousel({
             autoplay:false,
             responsiveClass:true,
@@ -45,7 +35,7 @@ $(function() {
                     nav:false
                 },
                 600:{
-                    items:4,
+                    items:2,
                     nav:false
                 },
                 1000:{
