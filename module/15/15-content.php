@@ -14,8 +14,7 @@
                                         class="eltdf-section-title-holder  eltdf-st-standard eltdf-st-with-dots  eltdf-section-title-appeared">
                                         <div class="eltdf-st-inner">
                                             <div class="eltdf-st-image" style="margin-bottom: -24px">
-                                                <img width="55" height="63"
-                                                    src="./images/section-title-img-1.png"
+                                                <img width="55" height="63" src="./images/section-title-img-1.png"
                                                     class="attachment-full size-full" alt="a"> </div>
                                             <h2 class="eltdf-st-title">
                                                 <span class="eltdf-st-title-word">Choose</span> <span
@@ -35,23 +34,23 @@
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
                                                         <span class="eltdf-pli-onsale">Sale</span>
-                                                        <img width="800" height="1088"
-                                                            src="./images/h1-shop-img-8.jpg"
-                                                            class="attachment-full size-full wp-post-image" alt="i"> </div>
-                                                    <a class="eltdf-pli-link" itemprop="url"
-                                                       ></a>
+                                                        <img width="800" height="1088" src="./images/h1-shop-img-8.jpg"
+                                                            class="attachment-full size-full wp-post-image" alt="i">
+                                                    </div>
+                                                    <a class="eltdf-pli-link" itemprop="url"></a>
                                                 </div>
                                                 <div class="eltdf-pli-text-wrapper">
                                                     <h5 itemprop="name" class="entry-title eltdf-pli-title">
-                                                        <a itemprop="url"
-                                                           >Photo
+                                                        <a itemprop="url">Photo
                                                             Frame</a>
                                                     </h5>
                                                     <div class="eltdf-pli-price"><del><span
                                                                 class="woocommerce-Price-amount amount"><span
-                                                                    class="woocommerce-Price-currencySymbol">$</span>39.00</span></del>
-                                                        <ins><span class="woocommerce-Price-amount amount"><span
-                                                                    class="woocommerce-Price-currencySymbol">$</span>29.00</span></ins>
+                                                                    class="price"><span class="amount"><span
+                                                                            class="currencySymbol">$</span>89.00</span>
+                                                                </span>
+                                                                <span><a href="#" class="button" rel="nofollow">Add to
+                                                                    cart</a></span>
                                                     </div>
                                                     <div class="eltdf-pli-text">
                                                         <div class="eltdf-pli-text-outer">
@@ -70,16 +69,14 @@
                                             <div class="eltdf-pli eltdf-item-space ">
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
-                                                        <img width="800" height="1088"
-                                                            src="./images/h1-shop-img-7.jpg"
-                                                            class="attachment-full size-full wp-post-image" alt="i" > </div>
-                                                    <a class="eltdf-pli-link" itemprop="url"
-                                                       ></a>
+                                                        <img width="800" height="1088" src="./images/h1-shop-img-7.jpg"
+                                                            class="attachment-full size-full wp-post-image" alt="i">
+                                                    </div>
+                                                    <a class="eltdf-pli-link" itemprop="url"></a>
                                                 </div>
                                                 <div class="eltdf-pli-text-wrapper">
                                                     <h5 itemprop="name" class="entry-title eltdf-pli-title">
-                                                        <a itemprop="url"
-                                                            >White
+                                                        <a itemprop="url">White
                                                             Veil</a>
                                                     </h5>
                                                     <div class="eltdf-pli-price"><span
@@ -103,16 +100,14 @@
                                             <div class="eltdf-pli eltdf-item-space ">
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
-                                                        <img width="800" height="1088"
-                                                            src="./images/h1-shop-img-6.jpg"
-                                                            class="attachment-full size-full wp-post-image" alt="i"> </div>
-                                                    <a class="eltdf-pli-link" itemprop="url"
-                                                       ></a>
+                                                        <img width="800" height="1088" src="./images/h1-shop-img-6.jpg"
+                                                            class="attachment-full size-full wp-post-image" alt="i">
+                                                    </div>
+                                                    <a class="eltdf-pli-link" itemprop="url"></a>
                                                 </div>
                                                 <div class="eltdf-pli-text-wrapper">
                                                     <h5 itemprop="name" class="entry-title eltdf-pli-title">
-                                                        <a itemprop="url"
-                                                           >Heart
+                                                        <a itemprop="url">Heart
                                                             Bracelet</a>
                                                     </h5>
                                                     <div class="eltdf-pli-price"><span
@@ -136,16 +131,14 @@
                                             <div class="eltdf-pli eltdf-item-space ">
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
-                                                        <img width="800" height="1088"
-                                                            src="./images/h1-shop-img-2.jpg"
-                                                            class="attachment-full size-full wp-post-image" alt="i"> </div>
-                                                    <a class="eltdf-pli-link" itemprop="url"
-                                                        ></a>
+                                                        <img width="800" height="1088" src="./images/h1-shop-img-2.jpg"
+                                                            class="attachment-full size-full wp-post-image" alt="i">
+                                                    </div>
+                                                    <a class="eltdf-pli-link" itemprop="url"></a>
                                                 </div>
                                                 <div class="eltdf-pli-text-wrapper">
                                                     <h5 itemprop="name" class="entry-title eltdf-pli-title">
-                                                        <a itemprop="url"
-                                                          >Love
+                                                        <a itemprop="url">Love
                                                             Baloon</a>
                                                     </h5>
                                                     <div class="eltdf-pli-price"><span
@@ -169,16 +162,14 @@
                                             <div class="eltdf-pli eltdf-item-space ">
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
-                                                        <img width="800" height="1088"
-                                                            src="./images/h1-shop-img-4.jpg"
-                                                            class="attachment-full size-full wp-post-image" alt="i"> </div>
-                                                    <a class="eltdf-pli-link" itemprop="url"
-                                                      ></a>
+                                                        <img width="800" height="1088" src="./images/h1-shop-img-4.jpg"
+                                                            class="attachment-full size-full wp-post-image" alt="i">
+                                                    </div>
+                                                    <a class="eltdf-pli-link" itemprop="url"></a>
                                                 </div>
                                                 <div class="eltdf-pli-text-wrapper">
                                                     <h5 itemprop="name" class="entry-title eltdf-pli-title">
-                                                        <a itemprop="url"
-                                                            >White&amp;Gold
+                                                        <a itemprop="url">White&amp;Gold
                                                             Earings</a>
                                                     </h5>
                                                     <div class="eltdf-pli-price"><span
@@ -203,16 +194,14 @@
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
                                                         <span class="eltdf-pli-out-of-stock">Sold</span>
-                                                        <img width="800" height="1088"
-                                                            src="./images//h1-shop-img-3.jpg"
-                                                            class="attachment-full size-full wp-post-image" alt="i"> </div>
-                                                    <a class="eltdf-pli-link" itemprop="url"
-                                                       ></a>
+                                                        <img width="800" height="1088" src="./images//h1-shop-img-3.jpg"
+                                                            class="attachment-full size-full wp-post-image" alt="i">
+                                                    </div>
+                                                    <a class="eltdf-pli-link" itemprop="url"></a>
                                                 </div>
                                                 <div class="eltdf-pli-text-wrapper">
                                                     <h5 itemprop="name" class="entry-title eltdf-pli-title">
-                                                        <a itemprop="url"
-                                                            >Hair
+                                                        <a itemprop="url">Hair
                                                             decoration</a>
                                                     </h5>
                                                     <div class="eltdf-pli-price"><span
@@ -223,10 +212,8 @@
                                                         <div class="eltdf-pli-text-outer">
                                                             <div class="eltdf-pli-text-inner">
                                                                 <div class="eltdf-pli-add-to-cart eltdf-default-skin">
-                                                                    <a rel="nofollow"
-                                                                        
-                                                                        data-quantity="1" data-product_id="304"
-                                                                        data-product_sku="103"
+                                                                    <a rel="nofollow" data-quantity="1"
+                                                                        data-product_id="304" data-product_sku="103"
                                                                         class="button ajax_add_to_cart eltdf-button">Read
                                                                         more</a> </div>
                                                             </div>
@@ -237,16 +224,14 @@
                                             <div class="eltdf-pli eltdf-item-space ">
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
-                                                        <img width="800" height="1088"
-                                                            src="./images/h1-shop-img-1.jpg"
-                                                            class="attachment-full size-full wp-post-image" alt="i"> </div>
-                                                    <a class="eltdf-pli-link" itemprop="url"
-                                                        ></a>
+                                                        <img width="800" height="1088" src="./images/h1-shop-img-1.jpg"
+                                                            class="attachment-full size-full wp-post-image" alt="i">
+                                                    </div>
+                                                    <a class="eltdf-pli-link" itemprop="url"></a>
                                                 </div>
                                                 <div class="eltdf-pli-text-wrapper">
                                                     <h5 itemprop="name" class="entry-title eltdf-pli-title">
-                                                        <a itemprop="url"
-                                                           >Blue
+                                                        <a itemprop="url">Blue
                                                             Candle</a>
                                                     </h5>
                                                     <div class="eltdf-pli-price"><span
@@ -270,16 +255,14 @@
                                             <div class="eltdf-pli eltdf-item-space ">
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
-                                                        <img width="800" height="1088"
-                                                            src="./images/h1-shop-img-10.jpg"
-                                                            class="attachment-full size-full wp-post-image" alt="i"> </div>
-                                                    <a class="eltdf-pli-link" itemprop="url"
-                                                        ></a>
+                                                        <img width="800" height="1088" src="./images/h1-shop-img-10.jpg"
+                                                            class="attachment-full size-full wp-post-image" alt="i">
+                                                    </div>
+                                                    <a class="eltdf-pli-link" itemprop="url"></a>
                                                 </div>
                                                 <div class="eltdf-pli-text-wrapper">
                                                     <h5 itemprop="name" class="entry-title eltdf-pli-title">
-                                                        <a itemprop="url"
-                                                            >Blue
+                                                        <a itemprop="url">Blue
                                                             Flats</a>
                                                     </h5>
                                                     <div class="eltdf-pli-price"><span
@@ -304,16 +287,14 @@
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
                                                         <span class="eltdf-pli-new-product">New</span>
-                                                        <img width="800" height="1088"
-                                                            src="./images/h1-shop-img-2.jpg"
-                                                            class="attachment-full size-full wp-post-image" alt="i"> </div>
-                                                    <a class="eltdf-pli-link" itemprop="url"
-                                                       ></a>
+                                                        <img width="800" height="1088" src="./images/h1-shop-img-2.jpg"
+                                                            class="attachment-full size-full wp-post-image" alt="i">
+                                                    </div>
+                                                    <a class="eltdf-pli-link" itemprop="url"></a>
                                                 </div>
                                                 <div class="eltdf-pli-text-wrapper">
                                                     <h5 itemprop="name" class="entry-title eltdf-pli-title">
-                                                        <a itemprop="url"
-                                                            >Wine
+                                                        <a itemprop="url">Wine
                                                             Glasses</a>
                                                     </h5>
                                                     <div class="eltdf-pli-price"><span
@@ -337,16 +318,14 @@
                                             <div class="eltdf-pli eltdf-item-space ">
                                                 <div class="eltdf-pli-inner">
                                                     <div class="eltdf-pli-image">
-                                                        <img width="800" height="1088"
-                                                            src="./images/h1-shop-img-9.jpg"
-                                                            class="attachment-full size-full wp-post-image" alt="i"> </div>
-                                                    <a class="eltdf-pli-link" itemprop="url"
-                                                        ></a>
+                                                        <img width="800" height="1088" src="./images/h1-shop-img-9.jpg"
+                                                            class="attachment-full size-full wp-post-image" alt="i">
+                                                    </div>
+                                                    <a class="eltdf-pli-link" itemprop="url"></a>
                                                 </div>
                                                 <div class="eltdf-pli-text-wrapper">
                                                     <h5 itemprop="name" class="entry-title eltdf-pli-title">
-                                                        <a itemprop="url"
-                                                          >Flower
+                                                        <a itemprop="url">Flower
                                                             Hair Decoration</a>
                                                     </h5>
                                                     <div class="eltdf-pli-price"><span

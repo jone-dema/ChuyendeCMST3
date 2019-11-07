@@ -14,25 +14,25 @@
     }
     
     $less = new lessc;
-    $less->compileFile('less/16.less', 'css/16.css');
+    $less->compileFile('less/13.less', 'css/13.css');
     
 ?>
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <title>16</title>
+        <title>13</title>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path?>/css/16.css" rel="stylesheet" type="text/css"/>
+        <link href="<?php echo $url_path?>/css/13.css" rel="stylesheet" type="text/css"/>
         
  
    
 
     <link href="<?php echo $url_path?>/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
         <link href="<?php echo $url_path?>/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
-        <link href="<?php echo $url_path?>/css/16.css" rel="stylesheet" type="text/css" />
+        <link href="<?php echo $url_path?>/css/13.css" rel="stylesheet" type="text/css" />
         <link rel="stylesheet" type="text/css" href="<?php echo $url_path?>/css/font-awesome.min.css" />
         <script src="<?php echo $url_path?>/js/jQuery_v3.1.1.min.js"></script>
         <script src="<?php echo $url_path?>/js/bootstrap.min.js"></script>
@@ -40,6 +40,6 @@
 
     </head>
     <body>
-        <?php include $dir_block.'/16.content.php'; ?>
+        <?php include $dir_block.'/13.content.php'; ?>
     </body>
 </html>
