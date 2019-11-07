@@ -35,7 +35,7 @@ $url_path = str_replace('\\', '/', $url_path);
                     </div>
                     <a href="javascript:void(0);" onclick="lightbox_open();" class="video-button-play-image">
                         <span class="video-button-play">
-                            <img width="204" height="204" src="./images/video-button.png" alt="a"> 
+                            <img width="204" height="204" src="./images/video-button.png" alt="a">
                         </span>
                     </a>
                 </div>

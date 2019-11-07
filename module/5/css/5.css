@@ -1,6 +1,26 @@
+@media (max-width: 1200) and (min-width: 992px) {
+  .type-5 .eltdf-row-grid-section-wrapper>.eltdf-row-grid-section {
+    width: 970px !important;
+  }
+}
+@media (min-width: 768px) and (max-width: 992px) {
+  .type-5 .eltdf-row-grid-section {
+    width: 750px !important;
+  }
+  .type-5 .post-335,
+  .type-5 .post-332 {
+    top: 186px !important;
+  }
+  .type-5 .post-337 {
+    top: 370px !important;
+  }
+  .type-5 .post-787 {
+    top: 557px !important;
+  }
+}
 .type-5 .eltdf-row-grid-section {
   position: relative;
-  width: 1100px;
+  width: 970px;
   margin: 0 auto;
   z-index: 20;
 }
@@ -24,11 +44,6 @@
   padding-left: 0;
   padding-right: 0;
 }
-@media (min-width: 768px) {
-  .type-5 .vc_col-sm-12 {
-    width: 100%;
-  }
-}
 .type-5 .vc_col-has-fill>.vc_column-inner,
 .type-5 .vc_row-has-fill+.vc_row-full-width+.vc_row>.vc_column_container>.vc_column-inner,
 .type-5 .vc_row-has-fill+.vc_row>.vc_column_container>.vc_column-inner,
@@ -42,7 +57,7 @@
   width: 100%;
 }
 .type-5 .vc_custom_1543225744078 {
-  background-image: url(https://theaisle.elated-themes.com/wp-content/uploads/2018/11/h1-background-img-5-1.jpg?id=3893) !important;
+  background-image: url("https://theaisle.elated-themes.com/wp-content/uploads/2018/11/h1-background-img-5-1.jpg?id=3893");
   background-position: center !important;
   background-repeat: no-repeat !important;
   background-size: contain !important;
