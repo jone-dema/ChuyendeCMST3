@@ -1,0 +1,128 @@
+.type-9 .container {
+    max-width : 1260px !important;
+    padding   : 80px 80px 0 80px !important;
+    background: #F4F8F9;
+  }
+
+  .type-9 h1,
+  .type-9 h2,
+  .type-9 h3,
+  .type-9 h4,
+  .type-9 h5,
+  .type-9 h6 {
+    font-family   : Muli, sans-serif !important;
+    text-transform: uppercase;
+  }
+
+  .type-9 h5 {
+    font-weight   : 400;
+    font-size     : 15px !important;
+    line-height   : 1.7em;
+    letter-spacing: .14em;
+  }
+
+  .type-9 h6 {
+    font-weight   : 500 !important;
+    font-size     : 12px !important;
+    letter-spacing: .12em !important;
+  }
+
+  .type-9 a,
+  .type-9  p a {
+    color             :   #818491 !important;
+  text-decoration   : none !important;
+    -webkit-transition: color .2s ease-out;
+    -moz-transition   : color .2s ease-out;
+    transition        : color .2s ease-out;
+  }
+  .type-9  span:hover {
+    color: #c78665;
+  }
+  .type-9  a:hover{
+    color: #c78665 !important;
+  }
+  .type-9  li {
+    list-style: none;
+  }
+
+  .type-9  .menu {
+    padding-left: 0;
+  }
+
+  .type-9  .title-holder {
+    color: #121f38;
+  }
+
+  .type-9 .menu-item {
+    padding        : 0 15px 4px 0;
+    color          : #818491;
+    text-decoration: none !important;
+    overflow       : hidden;
+    font-size      : 15px;
+    line-height    : 1.7em;
+    font-weight    : 400;
+    letter-spacing : 0;
+  }
+
+  .type-9  .menu-item:hover {
+    color: #000;
+  }
+
+  .type-9  .date {
+    color      : #c78665;
+    line-height: 1.4em;
+    font-weight: 400;
+    font-style : italic;
+    font-family: Cormorant, serif;
+    font-size  : 15px;
+  }
+
+  .type-9  .date::before {
+    content      : '\2022';
+    position     : relative;
+    left         : 0;
+    padding-right: 5px;
+  }
+
+  .type-9  .menu-footer-2 {
+    padding-top: 10px;
+
+  }
+  .type-9 .blog-list {
+    padding-left: 0;
+  }
+  .type-9 .clearfix {
+    padding-bottom: 12px;
+  }
+
+  .type-9 .logo {
+    padding-bottom: 20px;
+  }
+
+  .type-9 .fa {
+    color    : #ce8f6f;
+    font-size: 25px !important;
+
+  }
+
+  .type-9 a {
+    display: inline-block;
+  }
+
+  .type-9.text-1 {
+    line-height: 2.0em;
+    color      : #818491;
+    padding    : 0 0 0 6px;
+  }
+
+  .type-9.social {
+    float: right;
+  }
+
+  .type-9.up {
+    padding-bottom: 80px;
+  }
+
+  .type-9 .down {
+    border-top: 1px solid #818491;
+  }

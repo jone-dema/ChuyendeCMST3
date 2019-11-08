@@ -1,0 +1,32 @@
+.ul_product
+{
+    padding: 10px 0px;
+    width: 100%;
+    height: auto;
+
+}
+.title_product 
+{
+    padding: 15px 0px;
+}
+.product_cate
+{
+    margin-bottom: 15px;
+}
+.ul_product .li_load_onee
+{
+    width: 100%;
+    height: auto;
+padding: 10px 0px 0px 0px;
+
+}
+.ul_product .li_load_onee .load_onee
+{
+    padding: 8px 10px;
+    background: black;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    
+
+}

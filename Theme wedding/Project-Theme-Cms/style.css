@@ -1,0 +1,85 @@
+/*
+Theme Name: CMS THEME 2019
+Theme URI: https://wordpress.org/themes/hayghe/
+Author: Minh Tien
+Author URI: https://wordpress.org/
+Description: my design 
+
+Tags: one-column, two-columns, right-sidebar, accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, flexible-header, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready, blog
+Text Domain: Hayghe
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+
+/* @import url('css/header.css'); */
+
+@import 'css/1.css';
+@import 'css/2.css';
+@import 'css/3.css';
+@import 'css/4.css';
+@import 'css/1/bootstrap.min.css';
+@import 'css/1/jquery-ui.min.css';
+@import 'css/5.css';
+@import 'css/6.css';
+@import 'css/7.css';
+@import 'css/8.css';
+@import 'css/9.css';
+@import 'css/10.css';
+@import 'css/12.css';
+@import 'css/13.css';
+@import 'css/14.css';
+@import 'css/15.css';
+@import 'css/16.css';
+@import 'css/18.css';
+@import 'css/22.css';
+@import 'css/30.css';
+html {
+    overflow: scroll;
+    overflow-x: hidden;
+    box-sizing: border-box;
+}
+
+ ::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+}
+
+*,
+*:before,
+*:after {
+    box-sizing: inherit;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    height: auto;
+}
+
+ul li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+ul li:hover {
+    cursor: pointer;
+}
+
+a:hover {
+    text-decoration: none;
+    cursor: pointer;
+}
+
+p {
+    margin-bottom: 0 !important;
+}
+
+.sticky {
+    position: fixed;
+    top: 0;
+    z-index: 10;
+}

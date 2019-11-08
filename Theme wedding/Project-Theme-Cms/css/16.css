@@ -1,0 +1,70 @@
+.type-16 .container {
+    max-width: 1200px !important;
+  }
+  .type-16 .image>a>img {
+  
+    height: auto;
+  }
+  .type-16 .image {
+    padding: 0 -20px;
+    margin: 0 0 -20px;
+  }
+  .type-16 .col-md-2 {
+    padding: 0 10px 0 10px;
+  }
+  .type-16 .din-din {
+    padding: 0 0 17px 19% !important;
+  }
+  .type-16 .dan-dan {
+    padding: 35px 0 17px 3% !important;
+  }
+  .type-16 .sub-item {
+    margin-top: -20px;
+  }
+  @media (max-width: 1025px) and (min-width: 650px) {
+    .type-16 .container {
+      text-align: center !important;
+    }
+    .type-16 .col-md-2 {
+      width: 30% !important;
+      display: inline-block;
+    }
+    .type-16 .sub-item {
+      margin-top: 20px;
+    }
+    .type-16 .item-content {
+      padding: 0 !important;
+    }
+    .type-16 .din-din {
+      padding: 0 !important;
+    }
+  }
+  @media (max-width: 650px) and (min-width: 500px) {
+    .type-16 .container {
+      text-align: center !important;
+    }
+    .type-16 .sub-item {
+      margin-top: 20px;
+    }
+    .type-16 .item-content {
+      padding: 0 !important;
+    }
+    .type-16 .din-din {
+      padding: 0 !important;
+    }
+  }
+  /*
+      www.OnlineWebFonts.Com 
+      You must credit the author Copy this link on your web 
+      <div>Font made from <a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>is licensed by CC BY 3.0</div>
+      OR
+      <a href="http://www.onlinewebfonts.com">oNline Web Fonts</a>
+*/
+@font-face {font-family: "Learning Curve Pro";
+    src: url("http://db.onlinewebfonts.com/t/2d2279d35d35bd367ff45992a1a42351.eot"); /* IE9*/
+    src: url("http://db.onlinewebfonts.com/t/2d2279d35d35bd367ff45992a1a42351.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("http://db.onlinewebfonts.com/t/2d2279d35d35bd367ff45992a1a42351.woff2") format("woff2"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/2d2279d35d35bd367ff45992a1a42351.woff") format("woff"), /* chrome firefox */
+    url("http://db.onlinewebfonts.com/t/2d2279d35d35bd367ff45992a1a42351.ttf") format("truetype"), /* chrome firefox opera Safari, Android, iOS 4.2+*/
+    url("http://db.onlinewebfonts.com/t/2d2279d35d35bd367ff45992a1a42351.svg#Learning Curve Pro") format("svg"); /* iOS 4.1- */
+}

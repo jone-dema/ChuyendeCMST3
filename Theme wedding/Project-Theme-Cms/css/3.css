@@ -1,0 +1,87 @@
+.type-3 {
+    background: #d65679;
+    padding: 50px;
+}
+
+.type-3 .tong .left .text {
+    padding-left: 63px;
+    font-size: 14px;
+    line-height: 30.8px;
+    color: #fff;
+    letter-spacing: 2px;
+}
+
+.type-3 .tong .left .text span {
+    font-size: 20px;
+    line-height: 34px;
+    color: #fff;
+    letter-spacing: 2px;
+}
+
+.type-3 .tong .right .a {
+    width: 125px;
+    height: 125px;
+    border: 1px solid #eaa8ba;
+    border-radius: 50%;
+    -moz-border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+    text-align: center;
+    margin: auto;
+    padding: 40px 0 0 0;
+    transition: all 0.3s linear 0s;
+    -moz-transition: all 0.3s linear 0s;
+    -webkit-transition: all 0.3s linear 0s;
+}
+
+.type-3 .tong .right .a:hover {
+    background: #e289a1;
+    border-color: #e289a1;
+    cursor: pointer;
+}
+
+.type-3 .tong .right .ex {
+    width: 25% !important;
+}
+
+.type-3 .tong .right .a span {
+    font-size: 25px;
+    line-height: 33px;
+    color: #fff;
+}
+
+.type-3 .tong .right .a p {
+    font-size: 11px;
+    line-height: 24px;
+    color: #fff;
+    padding: 0;
+    margin: 0;
+    text-transform: uppercase;
+}
+
+.type-3 .tong .left .heart .icon {
+    color: #fff;
+    font-size: 42px !important;
+    line-height: 50.4px;
+    padding: 25px 0 0;
+    margin: 0;
+    display: block;
+    float: left;
+}
+
+@media only screen and (max-width: 991px) {
+    .type-3 .tong .left .text {
+        text-align: center;
+        padding: 0;
+    }
+    .type-3 .icon {
+        float: none !important;
+        text-align: center;
+        padding: 0;
+    }
+    .type-3 .tong .right .ex {
+        width: 100% !important;
+        margin: 30px 0px 30px 0px;
+    }
+}

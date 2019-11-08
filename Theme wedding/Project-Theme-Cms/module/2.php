@@ -1,0 +1,335 @@
+
+<div class="type-2">
+
+    <div class="swiper-container" style="max-height:500px;max-width:auto;">
+        <div class="swiper-wrapper">
+            <div class="swiper-slide">
+                <img class="img-responsive" src="<?php bloginfo("template_directory"); ?>/images/module2/s1-module3.jpg" alt="2-1"
+                    style="transform: translate3d(0px, 0px, 0px);transform-origin: 0% 0% 0px;">
+                <div class="wrap">
+                    <div class="content-4-1">
+                        <div class="title-holder with-text  text-title">
+                            <h2 class="title">
+                                <span class="title-word">Our</span> <span class="title-word">Forever</span> <span
+                                    class="title-word">After</span> </h2>
+                            <div class="description">
+                                Lorem ipsum dolor sit amet leo consectetuer adipiscing elit commodo Lorem ipsum dolor
+                                sit amet leo consectetuer </div>
+                            <a itemprop="url" href="#" target="_self"
+                                style="color: #c78665;background-color: #ffffff;border-color: #ffffff; margin: 20px;"
+                                class="eltdf-btn medium solid">
+                                <span class="text">Read More</span>
+                                <span class="line line-top"></span>
+                                <span class="line line-right"></span>
+                                <span class="line line-bottom"></span>
+                                <span class="line line-left"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="swiper-slide">
+                <img class="img-responsive" src="<?php bloginfo("template_directory"); ?>/images/module2/s2-module3.jpg" alt="2-3"
+                    style="height: 773px;width: 1349px;transform: translate3d(0px, 0px, 0px);transform-origin: 0% 0% 0px;">
+                <div class="wrap">
+                    <div class="content-4-1">
+                        <div class="title-holder with-text  text-title">
+                            <h2 class="title">
+                                <span class="title-word">Our</span> <span class="title-word">Forever</span> <span
+                                    class="title-word">After</span> </h2>
+                            <div class="description">
+                                Lorem ipsum dolor sit amet leo consectetuer adipiscing elit commodo Lorem ipsum dolor
+                                sit amet leo consectetuer </div>
+                            <a itemprop="url" href="#" target="_self"
+                                style="color: #c78665;background-color: #ffffff;border-color: #ffffff; margin: 20px;"
+                                class="eltdf-btn medium solid">
+                                <span class="text">Read More</span>
+                                <span class="line line-top"></span>
+                                <span class="line line-right"></span>
+                                <span class="line line-bottom"></span>
+                                <span class="line line-left"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="swiper-slide">
+                <img class="img-responsive" src="<?php bloginfo("template_directory"); ?>/images/module2/s3-module3.jpg" alt="2-4"
+                    style="height: 773px;width: 1349px;transform: translate3d(0px, 0px, 0px);transform-origin: 0% 0% 0px;">
+                <div class="wrap">
+                    <div class="content-4-1">
+                        <div class="title-holder with-text  text-title">
+                            <h2 class="title">
+                                <span class="title-word">Our</span> <span class="title-word">Forever</span> <span
+                                    class="title-word">After</span> </h2>
+                            <div class="description">
+                                Lorem ipsum dolor sit amet leo consectetuer adipiscing elit commodo Lorem ipsum dolor
+                                sit amet leo consectetuer </div>
+                            <a itemprop="url" href="#" target="_self"
+                                style="color: #c78665;background-color: #ffffff;border-color: #ffffff; margin: 20px;"
+                                class="eltdf-btn medium solid">
+                                <span class="text">Read More</span>
+                                <span class="line line-top"></span>
+                                <span class="line line-right"></span>
+                                <span class="line line-bottom"></span>
+                                <span class="line line-left"></span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+        </div>
+        <!-- Add Arrows -->
+        <div class="swiper-button-next"></div>
+        <div class="swiper-button-prev"></div>
+    </div>
+
+    <!-- Swiper JS -->
+  
+    <!-- Initialize Swiper -->
+    <script>
+    var swiper = new Swiper('.swiper-container', {
+        navigation: {
+            nextEl: '.swiper-button-next',
+            prevEl: '.swiper-button-prev',
+        },
+    });
+    </script>
+</div>
+
+<style>.type-2 .swiper-container {
+    width: auto;
+    height: auto;
+  }
+  .type-2 .swiper-slide {
+    position: relative;
+    text-align: center;
+    font-size: 18px;
+    background: #fff;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-pack: center;
+    -ms-flex-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    -ms-flex-align: center;
+    align-items: center;
+    height: 500px;
+  }
+  .type-2 .h1,
+  .type-2 h2,
+  .type-2 h3,
+  .type-2 h4,
+  .type-2 h5,
+  .type-2 h6 {
+    text-transform: uppercase;
+  }
+  .type-2 .swiper-slide img {
+    width: 100%;
+    height: auto;
+  }
+  .type-2 h2 {
+    z-index: 5;
+    white-space: nowrap;
+    font-size: 50px;
+    line-height: 76px;
+    font-weight: 300;
+    color: #ffffff;
+    letter-spacing: 5px;
+    font-family: Muli;
+    text-transform: uppercase;
+    visibility: inherit;
+    transition: none 0s ease 0s;
+    text-align: inherit;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    min-height: 0px;
+    min-width: 0px;
+    max-height: none;
+    max-width: none;
+    opacity: 1;
+    transform: matrix3d(1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1);
+    transform-origin: 50% 50% 0px;
+  }
+  .type-2 .content-4-1 {
+    padding: 20px 0 50px;
+  }
+  .type-2 .title-holder {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+    vertical-align: middle;
+    text-align: center;
+    box-sizing: border-box;
+  }
+  .type-2 .title-holder .text-title {
+    display: block;
+    margin: 0;
+  }
+  .type-2 .title-holder.with-text .title-word:not(:last-child) {
+    margin-right: 15px;
+  }
+  .type-2 .title-holder.with-text .title-word:not(:last-child):after {
+    content: '';
+    position: relative;
+    display: inline-block;
+    vertical-align: middle;
+    top: -2px;
+    left: 13px;
+    width: 4px;
+    height: 4px;
+    background-color: currentColor;
+    border-radius: 50%;
+  }
+  .type-2 .title-holder span.text {
+    font-family: Cormorant, serif;
+    color: #c78665;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 21px;
+  }
+  .type-2 .description {
+    z-index: 11;
+    min-width: 610px;
+    max-width: 610px;
+    white-space: normal;
+    font-size: 20px;
+    line-height: 27px;
+    font-weight: 300;
+    color: #ffffff;
+    letter-spacing: 0px;
+    font-family: Cormorant;
+    font-style: italic;
+    visibility: inherit;
+    transition: none 0s ease 0s;
+    text-align: center;
+    border-width: 0px;
+    margin: 0px;
+    padding: 0px;
+    min-height: 0px;
+    max-height: none;
+    opacity: 1;
+    transform: matrix3d(1,0,0,0,0,1,0,0,0,0,1,0,0,0,0,1);
+    transform-origin: 50% 50% 0px;
+  }
+  .type-2 a:hover {
+    text-decoration: none !important;
+  }
+  .type-2 .eltdf-btn {
+    display: inline-block;
+    vertical-align: middle;
+  }
+  .type-2 .eltdf-btn {
+    position: relative;
+    width: auto;
+    margin: 0;
+    font-family: Cormorant, serif;
+    font-size: 19px;
+    font-style: italic;
+    line-height: 2em;
+    letter-spacing: 0;
+    font-weight: 400;
+    outline: 0;
+    box-sizing: border-box;
+    -webkit-transition: color .2s ease-in-out, background-color .2s ease-in-out, border-color .2s ease-in-out;
+    -moz-transition: color .2s ease-in-out, background-color .2s ease-in-out, border-color .2s ease-in-out;
+    transition: color .2s ease-in-out, background-color .2s ease-in-out, border-color .2s ease-in-out;
+    padding: 10px 70px 9px;
+  }
+  .type-2 .eltdf-btn.solid {
+    color: #fff;
+    background-color: #c78665;
+    border: 1px solid transparent;
+  }
+  .type-2 .eltdf-btn.solid .line-top {
+    left: 4px;
+    top: 4px;
+    height: 1px;
+    width: calc(92%);
+    -webkit-transform: scaleX(0);
+    -moz-transform: scaleX(0);
+    transform: scaleX(0);
+    transform-origin: left center;
+  }
+  .type-2 .eltdf-btn.solid .line {
+    position: absolute;
+    background-color: currentColor;
+    -webkit-transition: transform .35s ease-out;
+    -moz-transition: transform .35s ease-out;
+    transition: transform .35s ease-out;
+  }
+  .type-2 .eltdf-btn.solid:hover .line-left,
+  .type-2 .eltdf-btn.solid:hover .line-right {
+    -webkit-transform: scaleY(1);
+    -moz-transform: scaleY(1);
+    transform: scaleY(1);
+  }
+  .type-2 .eltdf-btn.solid:hover .line-bottom,
+  .type-2 .eltdf-btn.solid:hover .line-top {
+    -webkit-transform: scaleX(1);
+    -moz-transform: scaleX(1);
+    transform: scaleX(1);
+  }
+  .type-2 .eltdf-btn.solid .line-top {
+    left: 4px;
+    top: 4px;
+    height: 1px;
+    width: calc(92%);
+    -webkit-transform: scaleX(0);
+    -moz-transform: scaleX(0);
+    transform: scaleX(0);
+    transform-origin: left center;
+  }
+  .type-2 .eltdf-btn.solid .line-right {
+    right: 4px;
+    bottom: 4px;
+    width: 1px;
+    height: calc(92%);
+    -webkit-transform: scaleY(0);
+    -moz-transform: scaleY(0);
+    transform: scaleY(0);
+    transform-origin: center bottom;
+  }
+  .type-2 .eltdf-btn.solid .line-bottom {
+    right: 4px;
+    bottom: 4px;
+    height: 1px;
+    width: calc(92%);
+    -webkit-transform: scaleX(0);
+    -moz-transform: scaleX(0);
+    transform: scaleX(0);
+    transform-origin: right center;
+  }
+  .type-2 .eltdf-btn.solid .line-left {
+    left: 4px;
+    top: 4px;
+    width: 1px;
+    height: calc(92%);
+    -webkit-transform: scaleY(0);
+    -moz-transform: scaleY(0);
+    transform: scaleY(0);
+    transform-origin: center top;
+  }
+  .type-2 .swiper-slide .wrap {
+    position: absolute;
+    color: #f17677;
+    font-family: Cinzel;
+    font-size: 40px;
+    line-height: 40px;
+    animation: zoom 1s ease;
+  }
+  .type-2 .swiper-slide:nth-child(2) .wrap {
+    animation: zoom 1s ease;
+  }
+  .type-2 .swiper-button-next {
+    color: #f1f1f1;
+  }
+  .type-2 .swiper-button-prev {
+    color: #f1f1f1;
+  }
+  
+  </style>
